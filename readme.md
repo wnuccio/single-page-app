@@ -1,11 +1,5 @@
-# Single page app - study plan 
-
-## Intro with Gemini
-- Single page app with frontend in typescript + React/Vue, and backend in python
-- General theory on a single page app
-    - architecture
-    - frontend organization in typescript
-    - package manager (npm)
+# Single page app
+Single page app with frontend in typescript + React/Vue, and backend in python
 
 ## Info
 - install: `brew install nginx`
