@@ -3,6 +3,7 @@ Single page app with frontend in typescript + React/Vue, and backend in python
 
 ## VS Code tips
 - Command P 
+- Useless comment
 
 ## Info
 - install: `brew install nginx`
