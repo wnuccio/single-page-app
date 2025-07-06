@@ -1,6 +1,9 @@
 # Single page app
 Single page app with frontend in typescript + React/Vue, and backend in python
 
+## VS Code tips
+- Command P 
+
 ## Info
 - install: `brew install nginx`
 - nginx conf: `/opt/homebrew/etc/nginx/nginx.conf`
